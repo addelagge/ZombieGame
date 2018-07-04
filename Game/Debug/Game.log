@@ -1,0 +1,56 @@
+﻿  Zombie.cpp
+c:\users\frla05\downloads\zombiegame\game\zombie.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\zombie.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\zombie.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  MainGame.cpp
+c:\users\frla05\downloads\zombiegame\gameengine\gltexture.h(5): warning C4099: 'GameEngine::GLTexture': type name first seen using 'class' now seen using 'struct'
+  c:\users\frla05\downloads\zombiegame\gameengine\gltexture.h(5): note: see declaration of 'GameEngine::GLTexture'
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(93): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(116): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(135): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(140): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(284): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(328): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\maingame.cpp(390): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+c:\users\frla05\downloads\zombiegame\gameengine\gltexture.h(5): warning C4099: 'GameEngine::GLTexture': type name first seen using 'class' now seen using 'struct'
+  c:\users\frla05\downloads\zombiegame\gameengine\gltexture.h(5): note: see declaration of 'GameEngine::GLTexture'
+  Level.cpp
+c:\users\frla05\downloads\zombiegame\game\level.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\level.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\level.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\level.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Human.cpp
+c:\users\frla05\downloads\zombiegame\game\human.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\human.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\human.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  Gun.cpp
+c:\users\frla05\downloads\zombiegame\game\gun.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bullet.cpp
+c:\users\frla05\downloads\zombiegame\game\bullet.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\bullet.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\bullet.cpp(72): warning C4018: '>=': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\bullet.cpp(73): warning C4018: '>=': signed/unsigned mismatch
+  Agent.cpp
+c:\users\frla05\downloads\zombiegame\game\agent.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\frla05\downloads\zombiegame\game\agent.cpp(105): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\frla05\downloads\zombiegame\game\agent.cpp(101): warning C4102: 'std': unreferenced label
+  Generating Code...
+  Game.vcxproj -> C:\Users\frla05\Downloads\ZombieGame\Debug\Game.exe
